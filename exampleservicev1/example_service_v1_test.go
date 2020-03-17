@@ -23,7 +23,7 @@ import (
 	"github.com/go-openapi/strfmt"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.ibm.com/CloudEngineering/go-sdk-template/exampleservicev1"
+	"github.com/powellquiring/my-sdk/exampleservicev1"
 	"io"
 	"io/ioutil"
 	"net/http"

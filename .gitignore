@@ -13,3 +13,6 @@ vendor/
 *.env
 
 package-lock.json
+
+#vim swap files
+[._]*.sw[a-p]
